@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alok Sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [aloksinha.me](aloksinha.me)
+- 👨‍💻 All of my projects are available at [aloksinha.me](https://aloksinha.me/)
 
-- 📄 Know about my experiences [Aloksinha.me](Aloksinha.me)
+- 📄 Know about my experiences [Aloksinha.me] (https://aloksinha.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
